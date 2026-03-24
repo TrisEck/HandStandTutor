@@ -1,0 +1,2 @@
+# HandStandTutor
+Konfigurationsdateien KI-Assistent 
